@@ -4,10 +4,6 @@
 
 ¡Hola! Soy Danner, un entusiasta del desarrollo de software y estudiante de Ingeniería de Sistemas en la Universidad Católica Sedes Sapientiae, Filial Nueva Cajamarca, Perú. Tengo 19 años y mi pasión por la programación comenzó a los 15 años. 🚀
 
-## Experiencia y Proyectos 💻
-
-Aunque aún no tengo experiencia laboral formal, he participado en diversos proyectos durante mis estudios. Actualmente, estoy involucrado en el desarrollo activo de una aplicación web para una empresa local: [Yacuselva](https://yacuselva.vercel.app).
-
 ## Habilidades 🛠️
 
 - **Desarrollo Web**: Next.js, React.js, HTML5, CSS3, TypeScript/JavaScript.
